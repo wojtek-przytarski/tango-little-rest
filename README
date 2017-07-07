@@ -1,6 +1,6 @@
 # tango-little-rest
 
-Simple REST server to read device info, commands and attributes.
+Simple REST server to read device info, commands and attributes. It is using Flask framework.
 
 When tango-test device server is running then we can use these links:
 localhost:5000/devices/sys/tg_test/1
